@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+	
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Microsoft.Web.LibraryManager.Build" Version="2.1.175" PrivateAssets="All" />
+	</ItemGroup>
+
+</Project>
